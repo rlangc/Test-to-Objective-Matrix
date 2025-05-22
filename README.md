@@ -1,4 +1,4 @@
-# Test to Objective Matrix Sample: The Great War: A Study of World War I
+# Test to Objective Matrix: The Great War: A Study of World War I
 
 ## Course Overview:
 This course offers an in-depth exploration of World War I, one of the most transformative conflicts in modern history. Students will examine the complex causes of the war, trace the pivotal battles that shaped its course, and analyze the profound impact of technological innovations on warfare. Through an investigation of trench life, new military strategies, and the political aftermath, students will develop a comprehensive understanding of the global ramifications of the conflict, culminating in the Treaty of Versailles and its enduring legacy.
