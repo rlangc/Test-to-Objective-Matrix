@@ -49,3 +49,7 @@ Assessments are designed to ensure comprehensive coverage of course objectives. 
 | Q23: Describe the experience of a soldier during a gas attack. | | | X | X | | Minor |
 | Q24: Compare the goals of France and Britain during the Treaty of Versailles negotiations. | | | | | X | Major |
 | Q25: What impact did submarines (U-boats) have on naval warfare during WWI? | | | | X | | Minor |
+
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
